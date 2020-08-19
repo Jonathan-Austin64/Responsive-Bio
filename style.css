@@ -1,7 +1,7 @@
-body{
-    background-color: lightgrey;
+body {
+    background-image: url("https://i.pinimg.com/originals/bb/0d/45/bb0d4572eae04ea2b806c6a05b0e2afa.jpg");
+    background-color: #cccccc;
 }
-
 .container{
     box-sizing: 100%;
     margin-top: 20px;
