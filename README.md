@@ -2,7 +2,7 @@
 ## Description
 In this homework assignment I created a responsive bio that contains all employer relevant information. This includes my name, phone number, address, resume, and mulitple coding projects that i've completed over the course of this bootcamp.
 
-![Responsive-Bio](img/About me.png)
+![Responsive-Bio](/About me.png)
 
 Check out my Bio at 
 https://jonathan-austin64.github.io/Responsive-Bio/
